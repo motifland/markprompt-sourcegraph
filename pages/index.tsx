@@ -14,7 +14,7 @@ export default function Home() {
       </Head>
       <main>
         <div className="w-screen h-screen flex justify-center items-center">
-          <div className="flex flex-col gap-12 p-8 w-full items-center justify-center h-[calc(100vh-60px)]">
+          <div className="flex flex-col gap-12 px-8 pt-8 pb-20 w-full items-center justify-center h-[calc(100vh-60px)]">
             <div className="w-full max-w-[720px] max-h-[480px] rounded-xl shadow-2xl bg-neutral-1100 p-8 flex-grow">
               <Markprompt onDark
           projectKey="3K9vHrh2Si4DOHTzGWjFxrHJiK4QZJqy" />
